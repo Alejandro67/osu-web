@@ -1,5 +1,5 @@
 osu!web
-=======
+========
 
 [![Build Status](https://travis-ci.org/ppy/osu-web.svg?branch=master)](https://travis-ci.org/ppy/osu-web)
 
